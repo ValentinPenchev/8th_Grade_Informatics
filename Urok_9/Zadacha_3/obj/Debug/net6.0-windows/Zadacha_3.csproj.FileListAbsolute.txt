@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\bin\Debug\net6.0-windows\Zadacha_3.exe
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\bin\Debug\net6.0-windows\Zadacha_3.deps.json
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\bin\Debug\net6.0-windows\Zadacha_3.runtimeconfig.json
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\bin\Debug\net6.0-windows\Zadacha_3.dll
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\bin\Debug\net6.0-windows\Zadacha_3.pdb
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.Form1.resources
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.AssemblyInfo.cs
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.dll
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\refint\Zadacha_3.dll
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.pdb
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\Zadacha_3.genruntimeconfig.cache
+C:\Users\User\Desktop\8th_Grade_Informatics_Tasks\Urok_9\Zadacha_3\obj\Debug\net6.0-windows\ref\Zadacha_3.dll
