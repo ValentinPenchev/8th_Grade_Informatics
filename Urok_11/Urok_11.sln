@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha_1", "Zadacha_1\Zadacha_1.csproj", "{A5CAE504-73FA-4308-A576-D799234D6788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha_2", "Zadacha_2\Zadacha_2.csproj", "{D85A6174-AD7D-45C6-9825-A598833F5396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha_3", "Zadacha_3\Zadacha_3.csproj", "{B3BEB2BD-CBBA-4388-984C-E75F3586214A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CAE504-73FA-4308-A576-D799234D6788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CAE504-73FA-4308-A576-D799234D6788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CAE504-73FA-4308-A576-D799234D6788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CAE504-73FA-4308-A576-D799234D6788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85A6174-AD7D-45C6-9825-A598833F5396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85A6174-AD7D-45C6-9825-A598833F5396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85A6174-AD7D-45C6-9825-A598833F5396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85A6174-AD7D-45C6-9825-A598833F5396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BEB2BD-CBBA-4388-984C-E75F3586214A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BEB2BD-CBBA-4388-984C-E75F3586214A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BEB2BD-CBBA-4388-984C-E75F3586214A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BEB2BD-CBBA-4388-984C-E75F3586214A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D3024BA-3208-4886-B9F0-29FFDB95BDBC}
+	EndGlobalSection
+EndGlobal
