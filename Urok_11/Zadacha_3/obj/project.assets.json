@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\Zadacha_3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\Zadacha_3.csproj",
       "projectName": "Zadacha_3",
-      "projectPath": "C:\\Users\\User\\Desktop\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\Zadacha_3.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\Zadacha_3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\8th_Grade_Informatics_Tasks\\Urok_11\\Zadacha_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

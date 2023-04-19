@@ -11,11 +11,12 @@
         {
             double sideA = double.Parse(textBox3.Text);
             
-            double P = Math.Round(sideA * 4, 2);
+            //double P = Math.Round(sideA * 4, 2);
             double S = Math.Round(sideA * sideA, 2);
 
-            label7.Text = "Периметъра е " + P.ToString();
+            label7.Text = "Периметъра е "  + Math.Round(sideA, 2); ;
             label1.Text = "Лицето е " + S.ToString();
+
         }
     }
 }
